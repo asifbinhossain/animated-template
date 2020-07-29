@@ -1,4 +1,4 @@
-## Title & Page :mag:
+## `TITLE` & `PAGE` :mag:
 **ANIMATED-TEMPLATE** - A Template project for making great landing pages with animations
 
 :arrow_right_hook: [Check this out!](https://ahossa.github.io/animated-template/.) :leftwards_arrow_with_hook:
@@ -13,6 +13,8 @@ Then we take it one notch higher — even the basic webpages (i.e landing page, 
 Enter [Creative Tim and their free Tailwind starter kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation). I found some components for popular front-end frameworks like React/Angular/Vue etc  -- that can potentially be connected to a backend service to update those components. :link:
 
 Lessons? - Don’t reinvent the Wheel! Build around it!! :rocket:
+
+:speaker: A Huge Shoutout to [Andrei](https://zerotomastery.io/about/instructor/andrei-neagoie/), [Jacinto](https://zerotomastery.io/about/instructor/jacinto-wong/) and [Zero To Mastery](https://zerotomastery.io/) team for these resources!! You guys are ***BEYOND AWESOME!!!*** :tada:
 
 ## `WHAT` is this project `ABOUT`? :clipboard:
 This project demonstrates the ideas behind creating **Reuseable UI Components** which can potentially be hooked up to a backend webservice for dynamically generating/displaying the information in the Components
