@@ -42,6 +42,7 @@ This project is implemented with the following steps
 * [HTML formatter](https://webformatter.com/html)
 
 ## `WHAT` are some of the possible future `ENHANCEMENT` ideas for this project? :nut_and_bolt:
+* Try to optimize the Animations for better UX
 * Download the REACT/ANGULAR/VUE components from Creative tim, hook it up to a backend webservice for the possible features
 * Change the UI animations with your assets to make it your own!
 * Make it more responsive/accessible for mobile devices.
