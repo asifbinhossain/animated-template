@@ -37,4 +37,12 @@ This project is implemented with the following steps
 * [Unsplash](https://unsplash.com/) -> The one with those high quality free photos!
 * [Random User](https://randomuser.me/) -> The one for generating random user properties!
 
+## `WHAT` are some of the `LEARNING-RESOURCES` you used? :books:
+* [Loading 3rd party JS](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript#use_async_or_defer)
+* [HTML formatter](https://webformatter.com/html)
 
+## `WHAT` are some of the possible future `ENHANCEMENT` ideas for this project? :nut_and_bolt:
+* Download the REACT/ANGULAR/VUE components from Creative tim, hook it up to a backend webservice for the possible features
+* Change the UI animations with your assets to make it your own!
+* Make it more responsive/accessible for mobile devices.
+* Enhance the performance of the page
